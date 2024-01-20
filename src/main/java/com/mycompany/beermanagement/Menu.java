@@ -25,7 +25,7 @@ public class Menu extends javax.swing.JFrame {
                 
     private Map<String , List<Map<String, String>>> mapBill = new HashMap<>() ;
     List<JButton> listDesk = new ArrayList<>();
-    private String currentDesk = "1";
+    private String currentDesk = "1"; 
 /**
  * 1 - List data in tabe bill deessk 1
  * 2 - List data in tabe bill deessk 2
